@@ -1,0 +1,39 @@
+.section{
+    background-image: url("src/assets/hero-base.png");
+}
+nav{
+    background-color: transparent !important;
+}
+.navbar-brand{
+    color: black;
+    font-weight: 600;
+    font-family: Mountager;
+    font-size: 1.5rem;
+    font-weight: 600;
+
+}
+.icon{
+    background-color: black;
+    border:5px solid red;
+    display: block;
+    width: 40px;
+    height: 5px;
+    margin-bottom:5px;
+    border-radius: 5px;
+    
+    
+}
+.nav-link{
+    color: black;
+}
+.nav-item{
+    padding: 0 25px ;
+}
+.header h1{
+    font-size: 4.5rem !important;
+    color: rgb(0, 0, 0);
+}
+.text button{
+    border-radius: 30px;
+    padding: 10px 30px;
+}
