@@ -1,6 +1,4 @@
-.section{
-    background-image: url("src/assets/hero-base.png");
-}
+
 nav{
     background-color: transparent !important;
 }
@@ -29,11 +27,4 @@ nav{
 .nav-item{
     padding: 0 25px ;
 }
-.header h1{
-    font-size: 4.5rem !important;
-    color: rgb(0, 0, 0);
-}
-.text button{
-    border-radius: 30px;
-    padding: 10px 30px;
-}
+ 

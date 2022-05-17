@@ -12,3 +12,30 @@ body{
     font-weight: 500; 
     color: rgb(43, 43, 43); 
 }
+.section, footer{
+    background-image: url("src/assets/hero-base.png");
+}
+.row{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+h2{
+    font-size: 3.8rem !important;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+button{
+    border-radius: 30px !important;
+    padding: 10px 30px !important;
+    margin-top: 20px;
+    margin-left: 0 !important;
+}
+p{
+    color: #6c757d!important;
+    
+}
+h5{
+    color: black;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
